@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from "vue-router";
     <img
       alt="Vue logo"
       class="logo"
-      src="@/assets/tvm_api.png"
+      src="https://pbs.twimg.com/media/ERcDhNmUwAAfKbg.jpg:large"
       width="200"
       height="125"
     />
